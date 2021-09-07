@@ -1,44 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+https://user-images.githubusercontent.com/42779015/132268873-192c7115-d988-4661-b505-08a83d947cb5.mp4
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+
+# Agenda de Shows
+
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0041042  |  Marcos Gabriel Tavares |
+| 16/0152615  |  João Pedro Elias Moura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
+O projeto recebe input do usuário(Data, nome do evento, inicio e termino) e monta uma agenda com o maximo de shows que se pode atender no dia.
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Screenshot from 2021-09-06 21-59-39](https://user-images.githubusercontent.com/42779015/132269271-4f4f0732-4163-47e2-a836-410d761d1e71.png)
+![Screenshot from 2021-09-06 21-59-29](https://user-images.githubusercontent.com/42779015/132269273-2e8c26ec-e30a-44d5-aa33-00974b00274d.png)
+![Screenshot from 2021-09-06 21-58-55](https://user-images.githubusercontent.com/42779015/132269275-03d6c383-4381-43f7-99f6-62e232d888dc.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+- Ter python3 na maquina
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Excecute o programa com python3 main.py e siga as instruções
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
